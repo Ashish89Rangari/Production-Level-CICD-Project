@@ -8,3 +8,6 @@ CICD Pipeline project , a Blogging application </br>
 
 
 ![image](https://github.com/user-attachments/assets/b44e138d-d646-4b11-923a-872ac3cb401e)
+
+![image](https://github.com/user-attachments/assets/cbe525c7-23ca-47cc-be8a-841ac3a9e2cc)
+
