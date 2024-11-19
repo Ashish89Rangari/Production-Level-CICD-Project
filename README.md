@@ -11,3 +11,8 @@ CICD Pipeline project , a Blogging application </br>
 
 ![image](https://github.com/user-attachments/assets/cbe525c7-23ca-47cc-be8a-841ac3a9e2cc)
 
+Monitoring Prometheus Collecting Metrics
+
+![image](https://github.com/user-attachments/assets/d60d6cdd-4671-482b-ace0-199923e5f3d1)
+
+
