@@ -15,7 +15,7 @@ Monitoring Prometheus Collecting Metrics
 
 ![image](https://github.com/user-attachments/assets/d60d6cdd-4671-482b-ace0-199923e5f3d1)
 
-Monitoring Grafan
+Monitoring Grafana
 
 ![image](https://github.com/user-attachments/assets/8bfdb7f0-4e2b-4647-a29e-5a4f409e81b2)
 
