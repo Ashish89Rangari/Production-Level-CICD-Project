@@ -19,3 +19,8 @@ Monitoring Grafan
 
 ![image](https://github.com/user-attachments/assets/8bfdb7f0-4e2b-4647-a29e-5a4f409e81b2)
 
+Jenkins Pipeline
+
+![image](https://github.com/user-attachments/assets/a9ac23bb-3637-4be7-a908-0148d22b5abc)
+
+
