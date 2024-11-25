@@ -185,6 +185,37 @@ kubectl get secrets -n webapps
 kubectl describe secret mysecretname -n webapps
 
 ```
+## Prometheus Install Command
+
+```
+wget https://github.com/prometheus/prometheus/releases/download/v3.0.0/prometheus-3.0.0.linux-amd64.tar.gz
+tar -xvf  prometheus-3.0.0.linux-amd64.tar.gz
+rm  prometheus-3.0.0.linux-amd64.tar.gz
+mv prometheus-3.0.0.linux-amd64/ prometheus
+```
+
+## Blackbox Exporter Install Command
+
+```
+wget https://github.com/prometheus/blackbox_exporter/releases/download/v0.25.0/blackbox_exporter-0.25.0.linux-amd64.tar.gz
+tar -xvf  blackbox_exporter-0.25.0.linux-amd64.tar.gz
+rm  blackbox_exporter-0.25.0.linux-amd64.tar.gz
+mv blackbox_exporter-0.25.0.linux-amd64/ blackbox
+```
+
+## Grafana Install Command Ubuntu
+
+```
+sudo apt-get install -y adduser libfontconfig1 musl
+wget https://dl.grafana.com/enterprise/release/grafana-enterprise_11.3.1_amd64.deb
+sudo dpkg -i grafana-enterprise_11.3.1_amd64.deb
+```
+## Start Grafana Server
+
+```
+sudo /bin/systemctl start grafana-server
+```
+
 
 ## To delete cluster Command
 
